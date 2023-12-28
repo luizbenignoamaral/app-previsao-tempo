@@ -1,6 +1,6 @@
 :root{
-    --cor-de-fundo:white;
-    --cor-fonte:black;
-    --cor-de-fundo-secundaria:rgb(66, 66, 66);
+    --cor-de-fundo:#eeeeee;
+    --cor-de-fundo-secundaria:#1f2949;
+    --cor-fonte: #ffffff;
 
 }
